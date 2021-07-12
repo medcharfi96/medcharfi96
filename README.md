@@ -11,7 +11,7 @@ I am Full Stack Engineer and machine learning specialist from Tunis Tunisia. I a
 <a href="https://twitter.com/Mohamedcharfi96" target="_blank">
     <img src="https://img.icons8.com/clouds/100/000000/twitter.png" alt="twitter:Mohamedcharfi96" /></a>
 <a href="https://linkedin.com/in/Mohamedcharfi96" target="_blank">
-    <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="linkedin:mohamed charfi"/></a>
+    <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="linkedin:mohamedcharfi"/></a>
 <a href="https://instagram.com/charfimohamed" target="_blank">
     <img src="https://img.icons8.com/clouds/100/000000/instagram-new--v1.png" alt="instagram:charfimohamed"/></a>
 <a href="https://www.facebook.com/mouhamed.charfii/" target="_blank">
@@ -27,23 +27,13 @@ I am Full Stack Engineer and machine learning specialist from Tunis Tunisia. I a
     <img src="https://img.icons8.com/dusk/50/000000/html-5.png" alt="HTML"/>
     <img src="https://img.icons8.com/dusk/50/000000/css3.png" alt="css"/>
     <img src="https://img.icons8.com/dusk/50/000000/sql.png" alt="SQL"/>
-    <img src="https://img.icons8.com/dusk/50/000000/mac-logo--v2.png" alt="ios"/>
+    <img src="https://img.icons8.com/dusk/50/000000/java.png" alt="ios"/>
     <img src="https://img.icons8.com/dusk/50/000000/linux.png" alt="linux" />
 </p>
 <tr>
     <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medcharfi96&layout=compact&hide=html" alt="medcharfi96" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medcharfi96&theme=onedark&layout=compact&hide=html" alt="medcharfi96" />
     </td>
     <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=medcharfi96&show_icons=true" alt="medcharfi96"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=medcharfi96&theme=onedark&show_icons=true" alt="medcharfi96"/>
     </td>
-
-<tr>
-
-## 💼 Skills
-
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Deep_Learning-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Machine_Learning-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
